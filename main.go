@@ -22,4 +22,9 @@ func main()  {
 
 	fmt.Printf("halo2 %s %s!\n", firstName2, lastName2)
 
+
+	// var fourth, fifth, sixth string = "empat", "lima", "enam"
+	// seventh, eight, ninth := "tujuh", "delapan", "sembilan"
+	// one, isFriday, twoPointTwo, say := 1, true, 2.2, "hello"
+
 }

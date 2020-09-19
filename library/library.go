@@ -3,8 +3,11 @@ package library
 import "fmt"
 
 // huruf pertama besar = public
-func SayHello() {
-    fmt.Println("hello")
+// func SayHello() {
+// add param name for call introduce
+func SayHello(name string) {
+	fmt.Println("hello")
+	introduce(name)
 }
 
 // huruf pertama kecil = private
